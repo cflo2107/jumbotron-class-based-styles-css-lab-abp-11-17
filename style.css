@@ -56,6 +56,6 @@ div.jumbotron {
   border-radius: 5px;
   padding: 10px;
 }
-h1#jumbotron {
+.jumbotron h1{
   font-size= 60px;
 }
